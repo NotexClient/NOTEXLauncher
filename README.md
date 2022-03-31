@@ -7,12 +7,12 @@ By forking the repository and modifying it or contributing to the development of
 
 # Credits
 
-> Developers - Pronner
-> Owners of NOTEX - Pronner, Phantoms, LUCKSHOT, Joonwei
-> Moderators of NOTEX - oxy, Potszy
-> Helpers of NOTEX - Cake, Demise, Runner Bolt, OscarToBeExact, prez, Vatuvatuvatu, It's FLORTE
-> Administrators of NOTEX - Hemoguy, Plantoverlord
-> Feedback Analysts & Viewers - Pronner, Phantoms, Plantoverlord, Joonwei
+> Developers - Pronner\n
+> Owners of NOTEX - Pronner, Phantoms, LUCKSHOT, Joonwei\n
+> Moderators of NOTEX - oxy, Potszy\n
+> Helpers of NOTEX - Cake, Demise, Runner Bolt, OscarToBeExact, prez, Vatuvatuvatu, It's FLORTE\n\n
+> Administrators of NOTEX - Hemoguy, Plantoverlord\n
+> Feedback Analysts & Viewers - Pronner, Phantoms, Plantoverlord, Joonwei\n
 
 # Source Code
 
