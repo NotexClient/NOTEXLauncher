@@ -1,4 +1,4 @@
-# <a href="#" alt="NLauncher"><img src="https://media.discordapp.net/attachments/916226674071339010/959019142718038016/Notex.png" /></a> NOTEXLauncher
+# <a href="#" alt="NLauncher"><img src="https://media.discordapp.net/attachments/916226674071339010/959019142718038016/Notex.png" width="50" height="50"/></a> NOTEXLauncher
 NOTEX Launcher is an MCBE windows client for custom in-game settings like Armor HUD, Zooming, Toggle/Auto Sprint, etc. NLauncher is updated often, not very often but sometimes to fix bugs, improve the UI or add some new features. Credits to **OnixClient** for the inspiration.
 
 # Contribution
