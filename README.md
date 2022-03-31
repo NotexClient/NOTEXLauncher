@@ -6,14 +6,14 @@ NOTEX Launcher is an MCBE windows client for custom in-game settings like Armor 
 By forking the repository and modifying it or contributing to the development of NLauncher (ethically and morally), you are be considered a contributor. Just make sure you're keeping the updates/fixes **community-based**.
 
 # Credits
-
+```
 • Developers - Pronner
 • Owners of NOTEX - Pronner, Phantoms, LUCKSHOT, Joonwei
 • Moderators of NOTEX - oxy, Potszy
 • Helpers of NOTEX - Cake, Demise, Runner Bolt, OscarToBeExact, prez, Vatuvatuvatu, It's FLORTE
 • Administrators of NOTEX - Hemoguy, Plantoverlord
 • Feedback Analysts & Viewers - Pronner, Phantoms, Plantoverlord, Joonwei
-
+```
 # Source Code
 
 ### Guidelines
