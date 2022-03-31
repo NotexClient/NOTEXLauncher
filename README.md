@@ -7,7 +7,7 @@ By forking the repository and modifying it or contributing to the development of
 
 # Credits
 ```
-• Developers - Pronner
+• Developers of NLauncher - Pronner
 • Owners of NOTEX - Pronner, Phantoms, LUCKSHOT, Joonwei
 • Moderators of NOTEX - oxy, Potszy
 • Helpers of NOTEX - Cake, Demise, Runner Bolt, OscarToBeExact, prez, Vatuvatuvatu, It's FLORTE
