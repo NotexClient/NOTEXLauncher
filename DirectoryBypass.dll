@@ -1,0 +1,10 @@
+bool BypassDirectory = true;
+bool directoryCreated;
+
+if (System.IO.File.Exists(@"C:\Notex"))
+{
+
+   directoryCreated = true;
+   return;
+
+}
