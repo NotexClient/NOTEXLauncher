@@ -12,7 +12,7 @@ By forking the repository and modifying it or contributing to the development of
 • Moderators of NOTEX - oxy, Potszy
 • Helpers of NOTEX - Cake, Demise, Runner Bolt, OscarToBeExact, prez, Vatuvatuvatu, It's FLORTE
 • Administrators of NOTEX - Hemoguy, Plantoverlord
-• Feedback Analysts & Viewers - Pronner, Phantoms, Plantoverlord, Joonwei
+• Feedback Analysts & Viewers - Pronner, Phantoms, Plantoverlord
 ```
 # Source Code
 
